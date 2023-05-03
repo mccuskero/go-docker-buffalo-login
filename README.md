@@ -1,1 +1,1 @@
-# go-docker-buffalo-login
+# go-docker-buffalo-user-registration
